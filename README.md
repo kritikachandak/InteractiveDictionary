@@ -1,8 +1,8 @@
 # InteractiveDictionary
 Python Interactive Dictionary
 
-#Prerequisite
-BeautifulSoup
-PyDictionary
-enchant
-requests
+Prerequisite are :-
+* BeautifulSoup
+* PyDictionary
+* enchant
+* requests
